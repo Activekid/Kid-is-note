@@ -9,7 +9,7 @@ marked down
 ## node.js
 | Article | Article | 
 | :-------------: | :-------------: |
-|[爬虫](https://github.com/Activekid/Kid-is-note/issues/2)|[vue](vue)|
+|[爬虫](https://github.com/Activekid/Kid-is-note/issues/2)|[node](node)|
 
 
 
